@@ -1,0 +1,5 @@
+User: User
+Score: 0
+Clicks: 0
+Misclicks: 0
+Timeouts: 16

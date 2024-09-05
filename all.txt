@@ -1,0 +1,147 @@
+User: User
+Score: 5, Clicks: 16, Misclicks: 5, Timeouts: 3
+----------
+User: User
+Score: 2, Clicks: 14, Misclicks: 4, Timeouts: 7
+----------
+User: User
+Score: 8, Clicks: 12, Misclicks: 2, Timeouts: 1
+----------
+User: User
+Score: 5, Clicks: 5, Misclicks: 0, Timeouts: 1
+----------
+User: User
+Score: 8, Clicks: 16, Misclicks: 3, Timeouts: 2
+----------
+User: User
+Score: 0, Clicks: 0, Misclicks: 0, Timeouts: 6
+----------
+User: User
+Score: 4, Clicks: 89, Misclicks: 47, Timeouts: 23
+----------
+User: User
+Score: 0, Clicks: 43, Misclicks: 6, Timeouts: 45
+----------
+User: User
+Score: 0, Clicks: 39, Misclicks: 29, Timeouts: 19
+----------
+User: User
+Score: 0, Clicks: 5, Misclicks: 1, Timeouts: 32
+----------
+User: User
+Score: 4, Clicks: 18, Misclicks: 7, Timeouts: 1
+----------
+User: User
+Score: 0, Clicks: 0, Misclicks: 0, Timeouts: 3
+----------
+User: User
+Score: 0, Clicks: 34, Misclicks: 15, Timeouts: 8
+----------
+User: User
+Score: 0, Clicks: 38, Misclicks: 20, Timeouts: 3
+----------
+User: User
+Score: 8, Clicks: 38, Misclicks: 14, Timeouts: 3
+----------
+User: User
+Score: 0, Clicks: 9, Misclicks: 7, Timeouts: 3
+----------
+User: User
+Score: 11, Clicks: 33, Misclicks: 9, Timeouts: 4
+----------
+User: User
+Score: 10, Clicks: 42, Misclicks: 17, Timeouts: 0
+----------
+User: User
+Score: 19, Clicks: 39, Misclicks: 10, Timeouts: 0
+----------
+User: User
+Score: 30, Clicks: 40, Misclicks: 5, Timeouts: 0
+----------
+User: User
+Score: 21, Clicks: 39, Misclicks: 8, Timeouts: 2
+----------
+User: User
+Score: 25, Clicks: 37, Misclicks: 5, Timeouts: 2
+----------
+User: User
+Score: 1, Clicks: 42, Misclicks: 23, Timeouts: 0
+----------
+User: User
+Score: 18, Clicks: 40, Misclicks: 11, Timeouts: 0
+----------
+User: User
+Score: 4, Clicks: 38, Misclicks: 16, Timeouts: 2
+----------
+User: User
+Score: 1, Clicks: 10, Misclicks: 7, Timeouts: 2
+----------
+User: User
+Score: 7, Clicks: 38, Misclicks: 15, Timeouts: 1
+----------
+User: User
+Score: 5, Clicks: 7, Misclicks: 0, Timeouts: 2
+----------
+User: User
+Score: 15, Clicks: 35, Misclicks: 9, Timeouts: 2
+----------
+User: User
+Score: 13, Clicks: 36, Misclicks: 11, Timeouts: 1
+----------
+User: User
+Score: 10, Clicks: 36, Misclicks: 12, Timeouts: 3
+----------
+User: User
+Score: 3, Clicks: 46, Misclicks: 21, Timeouts: 1
+----------
+User: User
+Score: 7, Clicks: 40, Misclicks: 16, Timeouts: 1
+----------
+User: User
+Score: 16, Clicks: 39, Misclicks: 12, Timeouts: 0
+----------
+User: User
+Score: 11, Clicks: 37, Misclicks: 12, Timeouts: 2
+----------
+User: User
+Score: 21, Clicks: 37, Misclicks: 7, Timeouts: 2
+----------
+User: User
+Score: 0, Clicks: 3, Misclicks: 3, Timeouts: 1
+----------
+User: User
+Score: 25, Clicks: 37, Misclicks: 4, Timeouts: 4
+----------
+User: User
+Score: 0, Clicks: 0, Misclicks: 0, Timeouts: 2
+----------
+User: User
+Score: 0, Clicks: 0, Misclicks: 0, Timeouts: 73
+----------
+User: User
+Score: 0, Clicks: 60, Misclicks: 33, Timeouts: 38
+----------
+User: User
+Score: 0, Clicks: 1, Misclicks: 0, Timeouts: 4
+----------
+User: User
+Score: 19, Clicks: 96, Misclicks: 34, Timeouts: 10
+----------
+User: User
+Score: 0, Clicks: 4, Misclicks: 3, Timeouts: 4
+----------
+User: User
+Score: 27, Clicks: 35, Misclicks: 4, Timeouts: 0
+----------
+User: User
+Score: 0, Clicks: 16, Misclicks: 12, Timeouts: 14
+----------
+User: User
+Score: 0, Clicks: 52, Misclicks: 28, Timeouts: 45
+----------
+User: User
+Score: 0, Clicks: 0, Misclicks: 0, Timeouts: 6
+----------
+User: User
+Score: 0, Clicks: 0, Misclicks: 0, Timeouts: 16
+----------
